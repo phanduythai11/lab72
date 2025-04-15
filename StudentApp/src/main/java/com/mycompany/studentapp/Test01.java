@@ -4,10 +4,6 @@
  */
 package com.mycompany.studentapp;
 
-/**
- *
- * @author HP
- */
 public class Test01 {
     
 }
