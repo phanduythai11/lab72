@@ -1,3 +1,4 @@
+import com.mycompany.studentapp.Student;
 import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
